@@ -4,5 +4,4 @@ runtime:
 description: Provisionamento da infra
 config:
   aws:region: us-east-1
-  aws:profile: desafio-zapay
-
+  aws:profile: pulumi-python
